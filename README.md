@@ -46,6 +46,7 @@ my-new-project/
 ├── AGENTS.md (= CLAUDE.md 로도 연결)  ← AI 가 매 세션 가장 먼저 읽는 진입점. (TODO) 마커 채움
 ├── CHECKLIST.md                      ← 환경 셋업 체크리스트
 ├── DEVLOG.md · HISTORY.md · SHARE.md ← 결정·버전·기능 기록
+├── PRIVACY.md · RELEASE.md           ← 출시 운영 (개인정보 처리방침 + 릴리스 노트·체크리스트)
 ├── rules/                            ← "어떻게 일하나" — 메타 규칙
 │   ├── behavior.md · boundaries.md   (항상 @import)
 │   ├── architecture.md · commands.md · domain.md · ui.md · ux.md  (작업별)

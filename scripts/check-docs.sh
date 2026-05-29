@@ -21,7 +21,7 @@ section() { printf '\n== %s ==\n' "$*"; }
 section "1. 스타터킷 기본 골격 파일 존재"
 PATHS=(
   AGENTS.md
-  CHECKLIST.md DEVLOG.md HISTORY.md SHARE.md README.md
+  CHECKLIST.md DEVLOG.md HISTORY.md SHARE.md README.md PRIVACY.md RELEASE.md
   rules/behavior.md rules/boundaries.md rules/architecture.md
   rules/commands.md rules/domain.md rules/ui.md rules/ux.md
   rules/methodology/README.md rules/methodology/templates.md
